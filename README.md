@@ -1,2 +1,2 @@
 # JogoDaVelha-JAVA
-jogo da velho no console
+jogo da velha no console
